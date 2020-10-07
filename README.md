@@ -1,5 +1,5 @@
 # Curriculo 
  
-1. HTML 1
-2. bootstrap 2
-3. CSS 3
+1. HTML 
+2. bootstrap 
+3. CSS 
